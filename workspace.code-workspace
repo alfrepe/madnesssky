@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"taskExplorer.exclude": [
+			"**/.vscode-test/**",
+			"**/bin/**",
+			"**/build/**",
+			"**/CompiledOutput/**",
+			"**/dist/**",
+			"**/doc/**",
+			"**/ext/**",
+			"**/out/**",
+			"**/output/**",
+			"**/packages/**",
+			"**/release/**",
+			"**/releases/**",
+			"**/samples/**",
+			"**/sdks/**",
+			"**/static/**",
+			"**/target/**",
+			"**/test/**",
+			"**/third_party/**",
+			"**/vendor/**",
+			"**/work/**",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/__init__.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/BallisticGame-master/original.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/Feels-Rain-master/main.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/__init__.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/light/test.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/light/tutorial/Plug-ins/text-along-path-0.4.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/particles/second_try_fireworks.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/snow/utils.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/studying_water/utils.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/utils.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/BallisticGame-master/BallisticGame.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/podium_light.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/light/medals.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/light/tutorial/Plug-ins/layerfx.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/particles/particles2.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/snow/draft_snow_effect.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/studying_water/particles2.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/ui.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/podium.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/light/light.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/particles/first_try_fireworks.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/studying_water/particles.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/template.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/medals.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/particles/fireworks.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/studying_water/minimal.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/shield.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/high_scores/balloons.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/particles/draft_particles.py",
+			"/c:/Users/Alfredo/Desktop/bored game/idea - copia/settings.py"
+		]
+	}
+}
